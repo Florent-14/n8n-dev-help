@@ -91,8 +91,6 @@ aria-hidden="true">Pastedimage20250527103630.png</figcaption>
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/7bca702d152a4d863ca327af9c479860ac05216b.png"
 class="wikilink" alt="Pastedimage20250527104159.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527104159.png</figcaption>
 </figure>
 
 6.  Sélectionner Type : Entreprise
