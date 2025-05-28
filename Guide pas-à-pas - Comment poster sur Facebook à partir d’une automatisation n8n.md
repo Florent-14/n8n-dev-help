@@ -80,8 +80,6 @@ Ce processus peut sembler complexe au premier abord, mais une fois configuré, i
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/6683d3f0ea38a1ec728fcef30f3f05ab8ea7dc91.png"
 class="wikilink" alt="Pastedimage20250527103630.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527103630.png</figcaption>
 </figure>
 
 4.  Entrer un nom d'application et l'adresse email créée
