@@ -97,8 +97,6 @@ class="wikilink" alt="Pastedimage20250527104159.png" />
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/d29fe57d5ef8503f27184ed6ecdb8017231721ce.png"
 class="wikilink" alt="Pastedimage20250527104233.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527104233.png</figcaption>
 </figure>
 
 7.  Choisir un "Portefeuille business" **==qui aura été créé au préalable==**
@@ -117,8 +115,6 @@ Une fois cela fait, vous avez créé une app et vous pouvez ajouter les produits
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/a1a8d393bd0eed7c25397186a8869c19c55071fa.png"
 class="wikilink" alt="Pastedimage20250527104620.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527104620.png</figcaption>
 </figure>
 
 ## Changer le nom d'une app Meta/Facebook
@@ -159,8 +155,6 @@ Le processus est gratuit mais nécessite une approbation de Meta/Facebook avant 
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/e8064f5ccd600efb2d74abada236e22e6a4e1264.png"
 class="wikilink" alt="Pastedimage20250527104811.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527104811.png</figcaption>
 </figure>
 
 Ignorez le message qui vous dit que vous avez besoin d'un accès Avancé :
@@ -169,8 +163,6 @@ Ignorez le message qui vous dit que vous avez besoin d'un accès Avancé :
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/659bb007a679a3e2575dc533ccd370b513ab7659.png"
 class="wikilink" alt="Pastedimage20250527104951.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527104951.png</figcaption>
 </figure>
 
 2.  À la place, scroller jusque en bas de la page et "Enregistrer les modifications".
@@ -181,8 +173,6 @@ aria-hidden="true">Pastedimage20250527104951.png</figcaption>
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/bb060458c9240cdd0abfecd594cd2674cd7feccb.png"
 class="wikilink" alt="Pastedimage20250527105507.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527105507.png</figcaption>
 </figure>
 
 5.  Enregistrer les modifications
@@ -192,7 +182,6 @@ aria-hidden="true">Pastedimage20250527105507.png</figcaption>
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/180c04dbed0e8159e132f5b26c1ac9bdc3cb701d.png"
 class="wikilink" alt="320" />
-<figcaption aria-hidden="true">320</figcaption>
 </figure>
 
 7.  Passez la souris sur "Outils" dans la barre de menu supérieure (Meta \> Espace App) et cliquez sur "Explorateur de l'API Graph"
@@ -201,7 +190,6 @@ class="wikilink" alt="320" />
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/a67f5ab99d8f5f04465df439ad7775318437a48b.png"
 class="wikilink" alt="350" />
-<figcaption aria-hidden="true">350</figcaption>
 </figure>
 
 Cela ouvre une interface de test pour les appels de l'API Meta (Graph).
@@ -212,8 +200,6 @@ Cela ouvre une interface de test pour les appels de l'API Meta (Graph).
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/94433b2dce4a8db92a4134af428d1e47dc3fd352.png"
 class="wikilink" alt="Pastedimage20250527110130.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527110130.png</figcaption>
 </figure>
 
 9.  Sous "Autorisations", sélectionnez les suivantes :
@@ -225,8 +211,6 @@ aria-hidden="true">Pastedimage20250527110130.png</figcaption>
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/9c74a0d7ad92914c815e875f7cafdbb9bbf6884d.png"
 class="wikilink" alt="Pastedimage20250527110336.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527110336.png</figcaption>
 </figure>
 
 À ce moment, nous avons donné les droits à l'app de gérer les posts sur une page Facebook.
@@ -235,8 +219,6 @@ aria-hidden="true">Pastedimage20250527110336.png</figcaption>
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/456ede815868cf70942900618c73e5ce197dcb5a.png"
 class="wikilink" alt="Pastedimage20250527110626.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527110626.png</figcaption>
 </figure>
 
 > Vous pouvez également ajouter d'autres droits si nécessaire pour votre cas d'utilisation.
@@ -267,8 +249,6 @@ Les tokens d'accès générés par une connexion web sont de courte durée, mais
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/e778aa688836c864e0b0d61d1b31abfa5f10ce4d.png"
 class="wikilink" alt="Pastedimage20250527111357.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527111357.png</figcaption>
 </figure>
 
 2.  Meta vous demandera de confirmer que vous souhaitez vous connectez à Facebook en tant que vous-mêmes
@@ -277,7 +257,6 @@ aria-hidden="true">Pastedimage20250527111357.png</figcaption>
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/880e784e0e51db128257cef29c7b7be2d9c882eb.png"
 class="wikilink" alt="350" />
-<figcaption aria-hidden="true">350</figcaption>
 </figure>
 
 3.  Sélectionnez la ou les pages auxquelles vous souhaitez que l'app se connecte et confirmer
@@ -286,14 +265,12 @@ class="wikilink" alt="350" />
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/ea74987fb9109e8a2f56cfa6ac57e52ec7a70bdc.png"
 class="wikilink" alt="350" />
-<figcaption aria-hidden="true">350</figcaption>
 </figure>
 
 <figure>
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/c5b4c3edbf01cab8fee0cc5c758bacc1cee82d20.png"
 class="wikilink" alt="350" />
-<figcaption aria-hidden="true">350</figcaption>
 </figure>
 
 Deux autres droits ont automatiquement été ajoutés.
@@ -302,7 +279,6 @@ Deux autres droits ont automatiquement été ajoutés.
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/f88d4eabaac3156d49db2f582bf020fa3cef04de.png"
 class="wikilink" alt="350" />
-<figcaption aria-hidden="true">350</figcaption>
 </figure>
 
 4.  Maintenant, nous allons tester cette configuration en faisant un appel API de test au moyen de la commande `me/accounts` dans la barre de test d'url
@@ -311,8 +287,6 @@ class="wikilink" alt="350" />
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/a3c7b395b419885e059cbd91434a2e167bbcd4d3.png"
 class="wikilink" alt="Pastedimage20250527113529.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527113529.png</figcaption>
 </figure>
 
 Cette commande devrait vous donner la liste des comptes que vous pourrez gérer avec ce token.
@@ -323,8 +297,6 @@ Cette commande devrait vous donner la liste des comptes que vous pourrez gérer 
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/9eb87a79c3eb502f01a0f5d7628d5b379c9b7de8.png"
 class="wikilink" alt="Pastedimage20250527113725.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527113725.png</figcaption>
 </figure>
 
 5.  Dans ce cas, relancez la génération du token. Cette seconde demande de permissions inclut cette fois une demande d'accès à l'application Entreprises
@@ -333,14 +305,12 @@ aria-hidden="true">Pastedimage20250527113725.png</figcaption>
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/3b49586b3613aca0f35c2bde1ac390dd9bdf0c60.png"
 class="wikilink" alt="350" />
-<figcaption aria-hidden="true">350</figcaption>
 </figure>
 
 <figure>
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/d21b452f37ed32c07536dcca9cc2b496fa722356.png"
 class="wikilink" alt="350" />
-<figcaption aria-hidden="true">350</figcaption>
 </figure>
 
 6.  Un nouveau token est généré. Une fois cela fait, relancez la commande avec `me/accounts` et le résultat devrait être bon
@@ -349,8 +319,6 @@ class="wikilink" alt="350" />
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/4bfff44793c9fcb09d73121b3fa86900f5078426.png"
 class="wikilink" alt="Pastedimage20250527114333.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527114333.png</figcaption>
 </figure>
 
 7.  Vous pouvez maintenant récupérer le token d'accès à la page Facebook sur laquelle vous souhaitez poster : `access_token`
@@ -365,8 +333,6 @@ aria-hidden="true">Pastedimage20250527114333.png</figcaption>
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/1488e5de2b97c2250780e24405a79540f406ab1e.png"
 class="wikilink" alt="Pastedimage20250527115157.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527115157.png</figcaption>
 </figure>
 
 2.  Entrez votre token dans la zone pour débuguer
@@ -375,8 +341,6 @@ aria-hidden="true">Pastedimage20250527115157.png</figcaption>
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/60ebaadbe8728e3ebf0ea2436bf03049ee181db5.png"
 class="wikilink" alt="Pastedimage20250527115324.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527115324.png</figcaption>
 </figure>
 
 3.  Vous avez accès aux informations du token. Cliquez sur "Étendre le token d'accès" une première fois
@@ -385,8 +349,6 @@ aria-hidden="true">Pastedimage20250527115324.png</figcaption>
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/8409f367734204672331f2e3fdb881f121476bcf.png"
 class="wikilink" alt="Pastedimage20250527115524.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527115524.png</figcaption>
 </figure>
 
 4.  Vous obtenez un nouveau token d'accès d'une durée de 2 mois
@@ -395,8 +357,6 @@ aria-hidden="true">Pastedimage20250527115524.png</figcaption>
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/cc72d9bb9e319bc03cbede68d3ee6e06a2944a63.png"
 class="wikilink" alt="Pastedimage20250527115654.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527115654.png</figcaption>
 </figure>
 
 5.  Cliquez sur "Débuguer" pour accéder aux informations du token ; la durée de vie est d'effectivement 2 mois
@@ -405,8 +365,6 @@ aria-hidden="true">Pastedimage20250527115654.png</figcaption>
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/9dd9d8e7001574386db26370ed1e58cebbd2dbe8.png"
 class="wikilink" alt="Pastedimage20250527120029.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527120029.png</figcaption>
 </figure>
 
 # Créer une connexion Facebook dans n8n
@@ -417,7 +375,6 @@ aria-hidden="true">Pastedimage20250527120029.png</figcaption>
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/a0746c47591cbafc3b856ca6e038f84b3908fc91.png"
 class="wikilink" alt="350" />
-<figcaption aria-hidden="true">350</figcaption>
 </figure>
 
 2.  Entrer le token "étendu" dans la fenêtre de configuration et sauvez
@@ -426,8 +383,6 @@ class="wikilink" alt="350" />
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/bfa5e46dbbe0a03ac23b261e52120f8bec25f4ca.png"
 class="wikilink" alt="Pastedimage20250527121107.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527121107.png</figcaption>
 </figure>
 
 3.  La connexion fonctionne 🥳
@@ -436,8 +391,6 @@ aria-hidden="true">Pastedimage20250527121107.png</figcaption>
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/d8bceb6a9e4b9ed40f545fa687ca35e87631603c.png"
 class="wikilink" alt="Pastedimage20250527121132.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527121132.png</figcaption>
 </figure>
 
 4.  Ajoutez un nœud "Facebook Graph API" dans votre workflow
@@ -536,8 +489,6 @@ Ajoutez un nœud "Facebook Graph API" dans votre workflow
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/b9e85103d484bfb8e268348140693293b1786854.png"
 class="wikilink" alt="Pastedimage20250527183445.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527183445.png</figcaption>
 </figure>
 
 Vous obtiendrez :
@@ -546,8 +497,6 @@ Vous obtiendrez :
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/f52f4ea7fa4cd0a381ef4ad560bc077f84421a92.png"
 class="wikilink" alt="Pastedimage20250527184001.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527184001.png</figcaption>
 </figure>
 
 > IMPORTANT : cela ne fonctionne PAS pour les vidéos Instagram. Le post est créé, le texte s'affiche mais le lien n'est pas ajouté
@@ -556,8 +505,6 @@ aria-hidden="true">Pastedimage20250527184001.png</figcaption>
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/1abc67035a2b5c76ebf4e94a797492d57ee23993.png"
 class="wikilink" alt="Pastedimage20250527183526.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527183526.png</figcaption>
 </figure>
 
 Pour obtenir un "certain" résultat avec un lien Instagram, il faut inclure l'url dans la valeur du paramètre "message". Cependant, la vidéo ne sera pas *embedded* dans le post comme une vidéo YouTube l'est ; à la place, vous n'aurez que le lien.
@@ -566,8 +513,6 @@ Pour obtenir un "certain" résultat avec un lien Instagram, il faut inclure l'ur
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/6d8f76f4f6eef696bf2bcfc6776b820a97ba83a5.png"
 class="wikilink" alt="Pastedimage20250527183834.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527183834.png</figcaption>
 </figure>
 
 Si quelqu'un sait comment résoudre ce problème, je suis preneur 😅
@@ -589,14 +534,10 @@ Pour poster une image, il faudra le paramétrage suivant :
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/e4dc91bbfa91f481e69e44dd86a6369e5049926c.png"
 class="wikilink" alt="Pastedimage20250527184353.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527184353.png</figcaption>
 </figure>
 
 <figure>
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/0a6bcf1c8b89800fa7c39e24c76a0b998408581b.png"
 class="wikilink" alt="Pastedimage20250527184426.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527184426.png</figcaption>
 </figure>
