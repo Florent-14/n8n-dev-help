@@ -4,18 +4,6 @@
 >
 > L'API Graph de Meta et ses interfaces utilisateur évoluent constamment. Les procédures décrites ici, valables en juin 2025, pourront devenir obsolètes dans le futur.
 
-# Table des matières
-
-``` table-of-contents
-title: 
-style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
-minLevel: 0 # Include headings from the specified level
-maxLevel: 0 # Include headings up to the specified level
-includeLinks: true # Make headings clickable
-hideWhenEmpty: false # Hide TOC if no headings are found
-debugInConsole: false # Print debug info in Obsidian console
-```
-
 # Introduction : Automatiser vos publications Facebook avec n8n
 
 Ce guide qui se veut complet vous accompagne dans la création d'une automatisation pour publier sur Facebook via n8n. Vous apprendrez à configurer l'accès aux API Meta et à créer des nœuds automatisés pour gérer vos publications sur les pages Facebook.
