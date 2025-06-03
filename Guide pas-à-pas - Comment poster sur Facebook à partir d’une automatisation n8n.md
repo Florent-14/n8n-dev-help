@@ -50,7 +50,7 @@ Ce processus peut sembler complexe au premier abord, mais une fois configuré, i
 
 ## Important
 
-> Il ne sera pas possible avec cette configuration de poster sur un **compte personnel** mais seulement sur une **Page Facebook**. L'API Graph ne permet pas cela à ce jour.
+> L’API Graph ne permet pas de poster sur un **compte personnel** à ce jour. Avec cette configuration, vous ne pourrez poster que sur une **Page Facebook**.
 
 # Créer une adresse email
 
