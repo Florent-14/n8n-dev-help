@@ -7,7 +7,8 @@
 # Introduction : Automatiser vos publications Facebook avec n8n
 
 Ce guide qui se veut complet vous accompagne dans la création d'une automatisation pour publier sur Facebook via n8n. Vous apprendrez à configurer l'accès aux API Meta et à créer des nœuds automatisés pour gérer vos publications sur les pages Facebook.
-\## Sources 
+
+## Sources 
 
 - https://community.n8n.io/t/step-by-step-guide-how-to-post-to-instagram-via-n8n-automations/61665
 - https://www.youtube.com/watch?v=nLlTQRuc2Cg
