@@ -94,8 +94,6 @@ class="wikilink" alt="Pastedimage20250527104233.png" />
 <img
 src="Guide%20pas-%C3%A0-pas%20-%20Comment%20poster%20sur%20Facebook%20%C3%A0%20partir%20d%E2%80%99une%20automatisation%20n8n-media/a88f19a45b1bd732b4c283255789992ea58badc4.png"
 class="wikilink" alt="Pastedimage20250527104443.png" />
-<figcaption
-aria-hidden="true">Pastedimage20250527104443.png</figcaption>
 </figure>
 
 Une fois cela fait, vous avez créé une app et vous pouvez ajouter les produits à celle-ci (Instagram, etc.)
@@ -226,7 +224,7 @@ Une fois le nouveau token créé, cliquez sur **Envoyer**. Cette fois, tous les
 
 Un token d'accès est une chaîne opaque qui identifie un utilisateur ou une utilisatrice, une application ou une Page, et que l'application peut utiliser pour passer des appels à l'API Graph. Le token contient notamment sa date d'expiration et le nom de l'application qui l'a généré. La plupart des appels d'API sur les applications Meta doivent contenir un token d'accès, en raison des contrôles de confidentialité. Il existe différents types de tokens d'accès correspondant à divers cas d'utilisation, et différentes méthodes pour obtenir ces tokens d'accès.
 
-Les tokens d'accès utilisateur·ice se présentent sous deux formes : les tokens de courte durée et ceux de longue durée. Généralement, les tokens de courte durée sont valides pendant une heure ou deux, tandis que les tokens de longue durée sont valides pendant environ 60 jours. Notez que la durée de vie d'un token peut varier sans préavis ou expirer de manière anticipée.
+Les tokens d'accès utilisateur se présentent sous deux formes : les tokens de courte durée et ceux de longue durée. Généralement, les tokens de courte durée sont valides pendant une heure ou deux, tandis que les tokens de longue durée sont valides pendant environ 60 jours. Notez que la durée de vie d'un token peut varier sans préavis ou expirer de manière anticipée.
 
 Les tokens d'accès générés par une connexion web sont de courte durée, mais vous pouvez les convertir en tokens de longue durée.
 
